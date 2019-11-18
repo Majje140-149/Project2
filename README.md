@@ -1,7 +1,7 @@
-## Cache the inverse
+# Cache the inverse
 
 makeCacheMatrix <- function(x = matrix()) {
-## y will be the inverse of x
+# y will be the inverse of x
     y <- NULL
 
     ## Set the matrix
